@@ -1,6 +1,8 @@
  # Heads or Tails !
 
-import random 
+
+    # Heads or Tails !
+import random
 
 while True:
      
@@ -16,5 +18,4 @@ while True:
             print("Try once Manhh!")
             break
     else:
-        print("Invalid! Enter in (Y/N)")
-        
+        print("Invalid! Enter in (Y/N)")    
